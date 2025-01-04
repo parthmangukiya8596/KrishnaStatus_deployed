@@ -1,6 +1,6 @@
 {
-    "name": "krishna_web_admin",
-    "short_name": "krishna_web_admin",
+    "name": "status_admin",
+    "short_name": "status_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
