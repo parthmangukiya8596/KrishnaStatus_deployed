@@ -86369,7 +86369,7 @@ o=A.iH(20)
 n=$.b0
 n=(n==null?$.b0=B.P:n).dL(0,h,s).ay.gn(0)
 m=t.s
-n=c.Lh(g,A.b(["krishna","Swaminarayan","hanuman","Shivaji"],m),new A.a6A(c),n)
+n=c.Lh(g,A.b(["krishna","Swaminarayan","hanuman","mahadev","shivaji"],m),new A.a6A(c),n)
 l=$.b0
 l=(l==null?$.b0=B.P:l).dL(0,h,s).ax.gn(0)
 l=c.Lh(g,A.b(["post","autoPost"],m),new A.a6B(c),l)
